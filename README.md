@@ -1,2 +1,2 @@
 # MULA Webdesign
-* Located in Munich and Wolfsburg *
+*Located in Munich and Wolfsburg*
